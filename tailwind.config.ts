@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        rye: ['Rye'],
+        libre: ['Libre Bodoni'],
+      },
     },
   },
   plugins: [],
