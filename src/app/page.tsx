@@ -62,7 +62,7 @@ function page() {
         rounded-tl-[150px] 
         rounded-br-[150px]
         '
-        src={'/images/slider1.svg'} 
+        src={'/images/figmapic.svg'} 
         alt={'Picture'}
         width={490}
         height={667}
